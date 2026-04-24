@@ -1,0 +1,391 @@
+# depslib dependency file v1.0
+1701374487 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivoarticulo.cpp
+	<iostream>
+	<cstring>
+	"GLOBALES.h"
+	"ClsArchivoArticulo.h"
+
+1697583164 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\globales.h
+
+1701374464 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivoarticulo.h
+	"ClsArticulo.h"
+
+1701352013 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarticulo.h
+
+1701376519 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivocliente.cpp
+	<iostream>
+	<cstring>
+	"ClsArchivoCliente.h"
+
+1701376519 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivocliente.h
+	"ClsCliente.h"
+
+1699654947 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clscliente.h
+	"ClsFecha.h"
+
+1697587512 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsfecha.h
+
+1701370638 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivoitemventa.cpp
+	<iostream>
+	<cstring>
+	"ClsArchivoArticulo.h"
+	"ClsArchivoCliente.h"
+	"ClsArchivoItemVenta.h"
+
+1701297744 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivoitemventa.h
+	"ClsItemVenta.h"
+	"ClsArchivoVentas.h"
+
+1700686029 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsitemventa.h
+	<iostream>
+	<cstring>
+
+1701298997 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivoventas.h
+	"ClsVentas.h"
+
+1701295701 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsventas.h
+	"ClsFecha.h"
+	"ClsCliente.h"
+
+1701374963 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+	"ClsArchivoVentas.h"
+	"ClsArchivoArticulo.h"
+	"ClsArchivoCliente.h"
+	"ClsItemVenta.h"
+	"ClsArchivoItemVenta.h"
+
+1701370531 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarticulo.cpp
+	<iostream>
+	<cstring>
+	"GLOBALES.h"
+	"ClsArticulo.h"
+
+1701375414 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clscliente.cpp
+	<iostream>
+	<cstring>
+	"ClsCliente.h"
+	"GLOBALES.h"
+
+1700685423 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsfecha.cpp
+	<iostream>
+	<ctime>
+	"ClsFecha.h"
+
+1701368945 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsitemventa.cpp
+	"ClsItemVenta.h"
+
+1701361741 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsventas.cpp
+	<iostream>
+	<cstring>
+	"ClsVentas.h"
+	"ClsCliente.h"
+	"ClsArchivoArticulo.h"
+	"ClsArchivoCliente.h"
+	"ClsItemVenta.h"
+	"ClsArchivoItemVenta.h"
+
+1701368946 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\funciones.cpp
+	<iostream>
+	<cstdio>
+	"ClsArchivoArticulo.h"
+	"ClsArchivoCliente.h"
+	"ClsArchivoVentas.h"
+	"ClsArchivoItemVenta.h"
+	"Funciones.h"
+
+1699477442 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\funciones.h
+
+1697584972 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\globales.cpp
+	<iostream>
+	"GLOBALES.h"
+
+1700009084 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"GLOBALES.h"
+	"ClsFecha.h"
+	"ClsCliente.h"
+	"ClsArchivoCliente.h"
+	"ClsArticulo.h"
+	"ClsArchivoArticulo.h"
+	"ClsVentas.h"
+	"ClsArchivoVentas.h"
+	"ClsItemVenta.h"
+	"ClsArchivoItemVenta.h"
+	"menuPrincipal.h"
+
+1697656318 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuprincipal.h
+
+1701374875 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuarticulos.cpp
+	<iostream>
+	"rlutil.h"
+	"menuArticulos.h"
+	"ClsArchivoArticulo.h"
+	"showItem.h"
+
+1666980724 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1697643444 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuarticulos.h
+
+1697661036 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\showitem.h
+
+1701376713 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuclientes.cpp
+	<iostream>
+	"rlutil.h"
+	"menuClientes.h"
+	"ClsArchivoCliente.h"
+	"showItem.h"
+
+1697592352 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuclientes.h
+
+1701366655 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuconfiguracion.cpp
+	<iostream>
+	"rlutil.h"
+	"Funciones.h"
+	"menuConfiguracion.h"
+	"ClsArchivoVentas.h"
+	"ClsArchivoCliente.h"
+	"ClsArchivoArticulo.h"
+	"showItem.h"
+
+1699475477 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuconfiguracion.h
+
+1701376068 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuprincipal.cpp
+	<iostream>
+	"rlutil.h"
+	"menuPrincipal.h"
+	"menuClientes.h"
+	"menuArticulos.h"
+	"menuVentas.h"
+	"menuConfiguracion.h"
+	"showItem.h"
+
+1697655752 c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuventas.h
+
+1701375073 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuventas.cpp
+	<iostream>
+	"rlutil.h"
+	"menuVentas.h"
+	"ClsArchivoVentas.h"
+	"ClsItemVenta.h"
+	"ClsArchivoItemVenta.h"
+	"showItem.h"
+
+1697661922 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial - para entregar\sistema de gestion comercial\showitem.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"showItem.h"
+
+1701374487 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivoarticulo.cpp
+	<iostream>
+	<cstring>
+	"GLOBALES.h"
+	"ClsArchivoArticulo.h"
+
+1697583164 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\globales.h
+
+1701374464 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivoarticulo.h
+	"ClsArticulo.h"
+
+1701352013 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarticulo.h
+
+1701376519 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivocliente.cpp
+	<iostream>
+	<cstring>
+	"ClsArchivoCliente.h"
+
+1701376519 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivocliente.h
+	"ClsCliente.h"
+
+1699654947 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clscliente.h
+	"ClsFecha.h"
+
+1697587512 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsfecha.h
+
+1701370638 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivoitemventa.cpp
+	<iostream>
+	<cstring>
+	"ClsArchivoArticulo.h"
+	"ClsArchivoCliente.h"
+	"ClsArchivoItemVenta.h"
+
+1701297744 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivoitemventa.h
+	"ClsItemVenta.h"
+	"ClsArchivoVentas.h"
+
+1700686029 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsitemventa.h
+	<iostream>
+	<cstring>
+
+1701298997 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivoventas.h
+	"ClsVentas.h"
+
+1701295701 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsventas.h
+	"ClsFecha.h"
+	"ClsCliente.h"
+
+1701374963 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+	"ClsArchivoVentas.h"
+	"ClsArchivoArticulo.h"
+	"ClsArchivoCliente.h"
+	"ClsItemVenta.h"
+	"ClsArchivoItemVenta.h"
+
+1701370531 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsarticulo.cpp
+	<iostream>
+	<cstring>
+	"GLOBALES.h"
+	"ClsArticulo.h"
+
+1701375414 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clscliente.cpp
+	<iostream>
+	<cstring>
+	"ClsCliente.h"
+	"GLOBALES.h"
+
+1700685423 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsfecha.cpp
+	<iostream>
+	<ctime>
+	"ClsFecha.h"
+
+1701368945 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsitemventa.cpp
+	"ClsItemVenta.h"
+
+1701361741 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\clsventas.cpp
+	<iostream>
+	<cstring>
+	"ClsVentas.h"
+	"ClsCliente.h"
+	"ClsArchivoArticulo.h"
+	"ClsArchivoCliente.h"
+	"ClsItemVenta.h"
+	"ClsArchivoItemVenta.h"
+
+1701368946 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\funciones.cpp
+	<iostream>
+	<cstdio>
+	"ClsArchivoArticulo.h"
+	"ClsArchivoCliente.h"
+	"ClsArchivoVentas.h"
+	"ClsArchivoItemVenta.h"
+	"Funciones.h"
+
+1699477442 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\funciones.h
+
+1697584972 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\globales.cpp
+	<iostream>
+	"GLOBALES.h"
+
+1700009084 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"GLOBALES.h"
+	"ClsFecha.h"
+	"ClsCliente.h"
+	"ClsArchivoCliente.h"
+	"ClsArticulo.h"
+	"ClsArchivoArticulo.h"
+	"ClsVentas.h"
+	"ClsArchivoVentas.h"
+	"ClsItemVenta.h"
+	"ClsArchivoItemVenta.h"
+	"menuPrincipal.h"
+
+1697656318 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuprincipal.h
+
+1701374875 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuarticulos.cpp
+	<iostream>
+	"rlutil.h"
+	"menuArticulos.h"
+	"ClsArchivoArticulo.h"
+	"showItem.h"
+
+1666980724 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1697643444 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuarticulos.h
+
+1697661036 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\showitem.h
+
+1701376713 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuclientes.cpp
+	<iostream>
+	"rlutil.h"
+	"menuClientes.h"
+	"ClsArchivoCliente.h"
+	"showItem.h"
+
+1697592352 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuclientes.h
+
+1701366655 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuconfiguracion.cpp
+	<iostream>
+	"rlutil.h"
+	"Funciones.h"
+	"menuConfiguracion.h"
+	"ClsArchivoVentas.h"
+	"ClsArchivoCliente.h"
+	"ClsArchivoArticulo.h"
+	"showItem.h"
+
+1699475477 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuconfiguracion.h
+
+1701376068 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuprincipal.cpp
+	<iostream>
+	"rlutil.h"
+	"menuPrincipal.h"
+	"menuClientes.h"
+	"menuArticulos.h"
+	"menuVentas.h"
+	"menuConfiguracion.h"
+	"showItem.h"
+
+1697655752 c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuventas.h
+
+1701375073 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\menuventas.cpp
+	<iostream>
+	"rlutil.h"
+	"menuVentas.h"
+	"ClsArchivoVentas.h"
+	"ClsItemVenta.h"
+	"ClsArchivoItemVenta.h"
+	"showItem.h"
+
+1697661922 source:c:\users\administrator\desktop\sistema de gestion comercial - para entregar\sistema de gestion comercial - para entregar\sistema de gestion comercial\showitem.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"showItem.h"
+
